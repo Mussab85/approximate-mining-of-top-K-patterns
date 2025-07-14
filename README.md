@@ -60,12 +60,6 @@ These thresholds allow PaNDa+ to perform **approximate mining**, finding pattern
 
 ---
 
-## License
-
-Specify your license here.
-
----
-
 ## Contact
 
 For questions or feedback, please contact [Mussab Zneika: alznakamosab@hotmail.com].
